@@ -26,5 +26,4 @@ public class pgm_5 {
             obj.close();
 
         }
-
 }
