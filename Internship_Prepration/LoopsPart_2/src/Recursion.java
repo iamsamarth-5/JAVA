@@ -7,7 +7,7 @@ public class Recursion {
 
     }
     public static void printNumbersRecursive(int number) {
-        //Terminal
+        //
         if (number == 0)
             return;
         //work or logic
